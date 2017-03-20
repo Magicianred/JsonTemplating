@@ -1,0 +1,8 @@
+﻿{
+	id: "$Key",
+	name: "$Name",
+	additionalInfo:
+	{
+		related: [ "$Related.Name" ]
+	}
+}

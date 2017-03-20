@@ -1,0 +1,7 @@
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\bin\Debug\JsonTemplating.dll
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\bin\Debug\JsonTemplating.pdb
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\obj\Debug\JsonTemplating.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\obj\Debug\JsonTemplating.dll
+C:\Users\Tom\Documents\Visual Studio 2017\Projects\JsonTemplateTestApp\JsonTemplating\obj\Debug\JsonTemplating.pdb
